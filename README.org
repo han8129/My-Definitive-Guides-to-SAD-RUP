@@ -5,5 +5,5 @@ point in producing the few first draft of all the artifact needed for the Final
 project of SAD
 
 All of the information can be read from the [[https:https://files.defcon.no/RUP/process/about.htm][Official RUP Documentation]], and
-anyone who use these summary of mine should refer to the official reference if
+anyone who use these summaries of mine should refer to the official reference if
 possible.
