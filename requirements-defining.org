@@ -178,10 +178,9 @@ main goal is for readability. A good rule is /the subflow should have a clear
 and isolated role/ - either activate it or skip it entirely
 
 **** Preconditions and Postconditions
-Preconditions and Postconditions To top of page It can be useful to use the
-notion of precondition and postcondition to clarify how the flow of events
-starts and ends. However, only use it if it is perceived as adding value by the
-audience of the use case.
+It can be useful to use the notion of precondition and postcondition to clarify
+how the flow of events starts and ends. However, only use it if it is perceived
+as adding value by the audience of the use case.
 
 The states described by pre- or postconditions should be states that the user
 can observe. "The user has logged on to the system" or "The user has opened the
@@ -196,6 +195,6 @@ Examples:
   communication with the banking system is reinitialized and the customer has
   been returned his card.
   
-*** Examples Use Case Specification
+*** Examples
 - [[https://files.defcon.no/RUP/examples/creg/elaboration_e1/uc_specs.htm]]
 - [[https://files.defcon.no/RUP/examples/csports/ovu_uc_inception.htm]]
